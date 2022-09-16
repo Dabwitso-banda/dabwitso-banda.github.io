@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    background-color: black;
+    color: white;
+    background-image: url("file:///storage/emulated/0/Android/data/com.teejay.trebedit/files/TrebEdit user files/database/pexels-pixabay-235986.jpg");
+  repeat: repeat, no-repeat;
+  background-size: cover;
+}
+
+.container{
+    padding: 30%;
+    
+    
+}
+.btn{
+    background: black;
+}
+
+
+
+
+
+
+
+
+
+
+
